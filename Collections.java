@@ -5,7 +5,6 @@ import java.util.*;
 public class Collections {
     public static void main (String[] args) {
         ArrayList<Integer> arr = new ArrayList<>();
-        //System.out.println(10>>1);
         arr.add(12); //primitive data directly getting stored in non-primitive type class by using concept of AUTOBOXING
         arr.add(34);
         arr.add(87);
