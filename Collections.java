@@ -50,7 +50,6 @@ public class Collections {
         for (EmployeeDemo e : emp )
             System.out.println(e.getName() + " " + e.getAge());
 
-        //Map does not implements Collections
         Map<String, String> map = new HashMap<String, String> ();
         map.put("J", "Jimin");
         map.put("T", "Taehyung");
